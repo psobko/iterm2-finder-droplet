@@ -1,6 +1,6 @@
 #iTerm2-Finder-Droplet
 
-Finder toolbar :droplet:droplet:droplet: app to quickly open directories in iTerm2 with a few exta features. Written in Applescript.
+Finder toolbar :droplet:droplet:droplet: to quickly open directories in iTerm2 with a few extra features. Written in Applescript.
 
 ### Features
 * Opens iTerm2 and `cd`s into the current directory 
@@ -12,6 +12,9 @@ Finder toolbar :droplet:droplet:droplet: app to quickly open directories in iTer
 * `⌘`-`Drop` to open in a **new tab**
 * `⌥`-`Drop` to open in a **new window**
 
+<p align="center">
+  <img src="/../master/assets/icon-retina.png?raw=true" width="50%" />
+</p>
 
 ###Installation
 Download the compiled application from the [releases page](https://github.com/psobko/iterm2-finder-droplet/releases/) or clone the repo and build the application from source. You can keep the application wherever you want.
@@ -42,3 +45,6 @@ Otherwise you can double-click the .applescript file to open it in the Script Ed
 * Fix the icon size
 * Set custom name during build
 * Set version #
+
+###History
+* Nov/01/2016: 0.9.0 - Initial beta release
